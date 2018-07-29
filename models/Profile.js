@@ -41,7 +41,7 @@ const ProfileSchema = new Schema({
         type: String,
         required: true
       },
-      compamy: {
+      company: {
         type: String,
         required: true
       },
@@ -104,7 +104,7 @@ const ProfileSchema = new Schema({
     facebook: {
       type: String
     },
-    linkein: {
+    linkedin: {
       type: String
     },
     instagram: {
